@@ -1,2 +1,2 @@
-# eventapp-files
+# eventapp
 eventapp all files
